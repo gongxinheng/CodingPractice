@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+/CrackingTheCodingInterview/CrackingTheCodingInterview.VC.VC.opendb
+/CrackingTheCodingInterview/CrackingTheCodingInterview.VC.db
+/CrackingTheCodingInterview/1.1-UniqueChars/1.1-UniqueChars.vcxproj.filters
+/CrackingTheCodingInterview/.vs/CrackingTheCodingInterview/v14/.suo

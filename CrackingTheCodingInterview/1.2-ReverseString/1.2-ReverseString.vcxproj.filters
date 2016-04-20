@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.1-UniqueChars.cpp">
-      <Filter>Resource Files</Filter>
+    <ClCompile Include="1.2-ReverseString.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

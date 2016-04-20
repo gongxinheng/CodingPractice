@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\1.2-ReverseString\1.3-CheckPermutation.cpp">
+    <ClCompile Include="1.3-CheckPermutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

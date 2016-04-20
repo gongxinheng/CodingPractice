@@ -5,7 +5,7 @@ bool CheckPermtation(const std::string& str1, const std::string& str2) {
 		return false;
 	
 	std::vector<int> counter1(128), counter2(128);
-	for (int i = 0; i < str1.length(); i++) {
+	for (std::size_t i = 0; i < str1.length(); i++) {
 		counter1[str1[i]]++;
 		counter2[str2[i]]++;
 	}

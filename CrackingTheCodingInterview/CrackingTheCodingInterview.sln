@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2-ReverseString", "Chapte
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3-CheckPermutation", "Chapter1\1.3-StringPermutation\1.3-StringPermutation.vcxproj", "{A033BF22-47DA-4954-9C08-B1491E7528B7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3-URLify", "Chapter1\ReplaceSpace\ReplaceSpace.vcxproj", "{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -43,6 +45,14 @@ Global
 		{A033BF22-47DA-4954-9C08-B1491E7528B7}.Release|x64.Build.0 = Release|x64
 		{A033BF22-47DA-4954-9C08-B1491E7528B7}.Release|x86.ActiveCfg = Release|Win32
 		{A033BF22-47DA-4954-9C08-B1491E7528B7}.Release|x86.Build.0 = Release|Win32
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Debug|x64.ActiveCfg = Debug|x64
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Debug|x64.Build.0 = Debug|x64
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Debug|x86.ActiveCfg = Debug|Win32
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Debug|x86.Build.0 = Debug|Win32
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Release|x64.ActiveCfg = Release|x64
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Release|x64.Build.0 = Release|x64
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Release|x86.ActiveCfg = Release|Win32
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,5 +61,6 @@ Global
 		{CB8B8B30-DFB3-402F-8848-4CCAF2218CA3} = {959C49C9-107D-4453-A896-2EEBFA339D95}
 		{F15FDD95-3328-4962-A6AA-283FA789E609} = {959C49C9-107D-4453-A896-2EEBFA339D95}
 		{A033BF22-47DA-4954-9C08-B1491E7528B7} = {959C49C9-107D-4453-A896-2EEBFA339D95}
+		{570CAEA6-C8CF-45C9-A5CE-91D447DD9685} = {959C49C9-107D-4453-A896-2EEBFA339D95}
 	EndGlobalSection
 EndGlobal
